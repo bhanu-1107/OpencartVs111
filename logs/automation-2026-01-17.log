@@ -1,0 +1,58 @@
+17:04:49.760 [main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Workspace\java files\OpencartVs111\master.xml
+
+17:04:56.510 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:04:56.925 [main]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:04:58.209 [main]INFO  testCases.TC001_AccountRegistrationPage-Clicked on Register link----
+17:04:58.217 [main]INFO  testCases.TC001_AccountRegistrationPage-Providing customer details----
+17:05:03.577 [main]INFO  testCases.TC001_AccountRegistrationPage-Validating expect message----
+17:05:03.713 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Finished TC001_AccountRegistrationPage ******
+17:05:06.886 [main]INFO  testCases.TC002_LoginTest-****** Starting TC002_LoginTest *********** 
+17:05:09.871 [main]INFO  testCases.TC002_LoginTest-*************Finished TC002_LoginTest *********** 
+17:05:50.993 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\crossbrowser.xml"
+17:05:51.401 [main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Workspace\java files\OpencartVs111\crossbrowser.xml
+
+17:05:57.246 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:05:57.248 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:05:57.619 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:05:57.802 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:06:45.455 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\crossbrowser.xml"
+17:06:45.873 [main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Workspace\java files\OpencartVs111\crossbrowser.xml
+
+17:06:53.045 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:06:53.045 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:06:53.519 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:06:53.784 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:07:51.611 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\crossbrowser.xml"
+17:07:51.955 [main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Workspace\java files\OpencartVs111\crossbrowser.xml
+
+17:07:58.934 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:07:58.934 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:07:59.403 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:07:59.649 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:11:02.036 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\crossbrowser.xml"
+17:11:02.342 [main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Workspace\java files\OpencartVs111\crossbrowser.xml
+
+17:11:08.233 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:11:08.240 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:11:08.712 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:11:08.966 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:11:25.740 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-Clicked on Register link----
+17:11:25.743 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-Providing customer details----
+17:11:57.534 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\crossbrowser.xml"
+17:11:57.857 [main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Workspace\java files\OpencartVs111\crossbrowser.xml
+
+17:12:03.707 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:12:03.707 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+17:12:04.037 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:12:04.135 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+17:12:43.997 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\master.xml"
+17:12:44.353 [main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Workspace\java files\OpencartVs111\master.xml
+
+17:12:47.393 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
