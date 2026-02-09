@@ -8,7 +8,6 @@
     <!-- To define the plugin version in your parent POM -->
     <pluginManagement>
       <plugins>
-      
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-compiler-plugin</artifactId>
@@ -22,6 +21,8 @@
              <configuration>
                  <suiteXmlFiles>
                  <suiteXmlFile>master.xml</suiteXmlFile>
+                 <!-- <suiteXmlFile>grouping.xml</suiteXmlFile> -->             
+                <!-- <suiteXmlFile>crossbrowser.xml</suiteXmlFile> -->
                  </suiteXmlFiles>
              </configuration>
         </plugin>

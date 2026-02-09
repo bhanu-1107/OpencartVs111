@@ -1,0 +1,49 @@
+13:04:01.884 [main]INFO  testCases.TC001_AccountRegistrationPage-Providing customer details----
+13:04:06.408 [main]INFO  testCases.TC001_AccountRegistrationPage-Validating expect message----
+13:04:06.486 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Finished TC001_AccountRegistrationPage ******
+13:04:09.432 [main]INFO  testCases.TC002_LoginTest-****** Starting TC002_LoginTest *********** 
+13:04:12.030 [main]INFO  testCases.TC002_LoginTest-*************Finished TC002_LoginTest *********** 
+13:08:13.465 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\crossbrowser.xml"
+13:08:13.952 [main]INFO  org.testng.internal.Utils-[TestNG] Running:
+  C:\Workspace\java files\OpencartVs111\crossbrowser.xml
+
+13:08:21.135 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+13:08:21.135 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+13:08:21.485 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+13:08:21.623 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+13:14:09.695 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\master.xml"
+13:14:09.863 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\grouping.xml"
+13:14:09.874 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\crossbrowser.xml"
+13:14:09.890 [main]WARN  org.testng.TestNG-Ignoring duplicate listener : utilities.ExtentReportManager
+13:14:09.890 [main]WARN  org.testng.TestNG-Ignoring duplicate listener : utilities.ExtentReportManager
+13:14:14.755 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+13:14:15.023 [main]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+13:14:15.918 [main]INFO  testCases.TC001_AccountRegistrationPage-Clicked on Register link----
+13:14:15.925 [main]INFO  testCases.TC001_AccountRegistrationPage-Providing customer details----
+13:14:20.570 [main]INFO  testCases.TC001_AccountRegistrationPage-Validating expect message----
+13:14:20.658 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Finished TC001_AccountRegistrationPage ******
+13:14:23.793 [main]INFO  testCases.TC002_LoginTest-****** Starting TC002_LoginTest *********** 
+13:14:26.653 [main]INFO  testCases.TC002_LoginTest-*************Finished TC002_LoginTest *********** 
+13:14:31.810 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+13:14:32.027 [main]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+13:14:32.901 [main]INFO  testCases.TC001_AccountRegistrationPage-Clicked on Register link----
+13:14:32.903 [main]INFO  testCases.TC001_AccountRegistrationPage-Providing customer details----
+13:14:37.336 [main]INFO  testCases.TC001_AccountRegistrationPage-Validating expect message----
+13:14:37.405 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Finished TC001_AccountRegistrationPage ******
+13:14:40.308 [main]INFO  testCases.TC002_LoginTest-****** Starting TC002_LoginTest *********** 
+13:14:42.753 [main]INFO  testCases.TC002_LoginTest-*************Finished TC002_LoginTest *********** 
+13:14:48.387 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+13:14:48.408 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+13:14:48.781 [TestNG-tests-1]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+13:14:48.950 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+13:15:01.126 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-Clicked on Register link----
+13:15:01.134 [TestNG-tests-2]INFO  testCases.TC001_AccountRegistrationPage-Providing customer details----
+13:16:05.383 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\master.xml"
+13:16:05.545 [main]DEBUG org.testng.TestNG-suiteXmlPath: "C:\Workspace\java files\OpencartVs111\grouping.xml"
+13:16:05.563 [main]WARN  org.testng.TestNG-Ignoring duplicate listener : utilities.ExtentReportManager
+13:16:10.265 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Started TC001_AccountRegistrationPage ******
+13:16:10.659 [main]INFO  testCases.TC001_AccountRegistrationPage-Clicked on MyAccount link----
+13:16:11.762 [main]INFO  testCases.TC001_AccountRegistrationPage-Clicked on Register link----
+13:16:11.764 [main]INFO  testCases.TC001_AccountRegistrationPage-Providing customer details----
+13:16:16.290 [main]INFO  testCases.TC001_AccountRegistrationPage-Validating expect message----
+13:16:16.373 [main]INFO  testCases.TC001_AccountRegistrationPage-****** Finished TC001_AccountRegistrationPage ******
